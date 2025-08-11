@@ -1,8 +1,8 @@
 ## Olá, eu sou a Júlia! 👋
 
 💻 Formada em Técnico em Informática  
-🎓 Cursando Análise e Desenvolvimento de Sistemas  
-💼 Analista de Sistemas PowerBuilder  
+🎓 Cursando Análise e Desenvolvimento de Sistemas  - SENAC
+💼 Analista de Sistemas PowerBuilder  - DIMENSA TECNOLOGIA
 🌟 Apaixonada por tecnologia e desafios!
 
 ---
